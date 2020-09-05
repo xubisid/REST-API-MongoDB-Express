@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "07fe38e1-30dd-4193-975b-cd6625eadd4a",
+		"name": "REST-API-MONGODB-EXPRESS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "API-Test",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
